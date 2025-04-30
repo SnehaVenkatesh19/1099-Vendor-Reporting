@@ -1,0 +1,51 @@
+vendor_id,vendor_name,payment_method,EIN
+V001,"Rodriguez, Figueroa and Sanchez",Wire Transfer,667-48-7178
+V002,Doyle Ltd,Check,
+V003,"Mcclain, Miller and Henderson",Wire Transfer,530-58-1983
+V004,Davis and Sons,Wire Transfer,254-29-1050
+V005,"Guzman, Hoffman and Baldwin",Check,347-03-9639
+V006,"Gardner, Robinson and Lawrence",Check,568-30-9642
+V007,Blake and Sons,Wire Transfer,226-01-1164
+V008,"Henderson, Ramirez and Lewis",ACH,725-81-0965
+V009,Garcia-James,Wire Transfer,235-09-0515
+V010,Abbott-Munoz,Wire Transfer,881-43-1161
+V011,Blair PLC,Wire Transfer,527-31-4563
+V012,Dudley Group,Wire Transfer,686-63-3511
+V013,Arnold Ltd,Check,553-17-9356
+V014,"Mcclure, Ward and Lee",Wire Transfer,591-61-3982
+V015,Williams and Sons,ACH,
+V016,Galloway-Wyatt,Check,804-61-6670
+V017,James Group,ACH,195-13-1589
+V018,"Flowers, Martin and Kelly",ACH,675-56-5805
+V019,"Adams, Zuniga and Wong",ACH,434-53-7652
+V020,"Reid, Ferguson and Sanchez",ACH,885-94-0888
+V021,Gray-Mayo,Check,690-84-1613
+V022,"Watts, Robinson and Nguyen",Check,063-52-5560
+V023,Perez Inc,ACH,820-14-4074
+V024,Morales-Jones,ACH,197-25-8787
+V025,"Walter, Edwards and Rios",Check,460-18-6913
+V026,Wilkerson-Day,Check,188-36-7580
+V027,Baker and Sons,Check,256-10-7261
+V028,"Hoffman, Baker and Richards",Wire Transfer,828-71-1605
+V029,"Ross, Robinson and Bright",Wire Transfer,052-84-8857
+V030,"Snyder, Campos and Callahan",Wire Transfer,857-02-1529
+V031,Burton Ltd,ACH,772-31-2725
+V032,Carlson-Cruz,Wire Transfer,417-63-7887
+V033,"Ferrell, Rice and Maddox",ACH,219-52-0961
+V034,Frazier Inc,ACH,
+V035,"Dyer, Potter and Mack",Wire Transfer,169-49-0036
+V036,Rodriguez-Graham,ACH,400-34-7455
+V037,Smith-Bowen,Wire Transfer,293-55-9106
+V038,"Baker, Mason and White",Wire Transfer,
+V039,Harrell LLC,Check,678-92-7974
+V040,"Romero, Gonzalez and Brooks",Wire Transfer,159-25-4862
+V041,Ryan PLC,Check,223-08-9490
+V042,George Group,Wire Transfer,754-70-0999
+V043,Rodriguez LLC,Wire Transfer,766-41-0937
+V044,Allen-Allen,Check,052-75-7812
+V045,"Arroyo, Miller and Tucker",Check,515-68-2580
+V046,Spence PLC,Wire Transfer,059-66-1313
+V047,Anderson Group,ACH,872-24-1123
+V048,"Martin, Rose and Obrien",Check,
+V049,Hickman Ltd,ACH,610-09-3854
+V050,"Harris, Collins and Carney",ACH,414-16-9334
